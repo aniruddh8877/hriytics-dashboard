@@ -1,0 +1,57 @@
+EmployeeID,Age,Gender,Department,JobRole,YearsAtCompany,JobSatisfaction,Attrition,MonthlyIncome,Education
+1,29,Male,Sales,Sales Executive,5,4,No,5993,Bachelor
+2,35,Female,Research & Development,Research Scientist,8,3,No,2900,Master
+3,42,Male,Research & Development,Laboratory Technician,12,2,Yes,2400,Bachelor
+4,33,Female,Sales,Sales Representative,3,4,No,3000,PhD
+5,25,Male,Research & Development,Laboratory Technician,2,1,Yes,2200,High School
+6,30,Male,Sales,Sales Executive,4,4,No,4800,Bachelor
+7,45,Female,Research & Development,Manager,15,3,No,12000,Master
+8,28,Male,Human Resources,HR Assistant,3,3,No,2800,Bachelor
+9,36,Female,Research & Development,Healthcare Representative,10,4,No,6500,Bachelor
+10,32,Male,Sales,Manager,6,2,No,9500,Master
+11,22,Male,Sales,Sales Executive,1,3,Yes,2100,Bachelor
+12,41,Female,Research & Development,Research Scientist,14,4,No,10500,PhD
+13,27,Male,Human Resources,HR Assistant,2,2,Yes,2600,Bachelor
+14,39,Female,Sales,Sales Representative,9,3,No,7200,Master
+15,34,Male,Research & Development,Laboratory Technician,7,2,No,4100,Bachelor
+16,29,Female,Research & Development,Healthcare Representative,4,4,No,5200,Bachelor
+17,50,Male,Research & Development,Manager,20,3,No,15000,Master
+18,24,Female,Sales,Sales Executive,1,1,Yes,2000,High School
+19,37,Male,Sales,Manager,11,4,No,9800,Master
+20,31,Female,Human Resources,HR Assistant,5,3,No,3200,Bachelor
+21,28,Male,Research & Development,Laboratory Technician,3,2,Yes,2400,Bachelor
+22,44,Female,Research & Development,Research Scientist,16,4,No,11000,PhD
+23,35,Male,Sales,Sales Executive,8,3,No,6200,Bachelor
+24,26,Female,Sales,Sales Representative,2,2,Yes,2700,Bachelor
+25,40,Male,Research & Development,Healthcare Representative,13,4,No,8300,Master
+26,33,Female,Research & Development,Laboratory Technician,6,3,No,3900,Bachelor
+27,29,Male,Human Resources,HR Assistant,4,2,Yes,2900,Bachelor
+28,46,Female,Research & Development,Manager,18,4,No,14000,Master
+29,38,Male,Sales,Sales Executive,10,3,No,7100,Bachelor
+30,23,Female,Sales,Sales Executive,1,1,Yes,2100,High School
+31,41,Male,Research & Development,Research Scientist,15,4,No,11200,PhD
+32,34,Female,Human Resources,HR Assistant,7,3,No,3600,Bachelor
+33,27,Male,Sales,Sales Representative,3,2,Yes,2800,Bachelor
+34,49,Female,Research & Development,Manager,22,4,No,15500,Master
+35,36,Male,Research & Development,Laboratory Technician,9,3,No,4500,Bachelor
+36,31,Female,Sales,Sales Executive,6,4,No,5400,Bachelor
+37,44,Male,Sales,Manager,17,3,No,10200,Master
+38,25,Female,Human Resources,HR Assistant,2,2,Yes,2600,Bachelor
+39,39,Male,Research & Development,Healthcare Representative,11,4,No,7600,Bachelor
+40,28,Female,Sales,Sales Representative,4,3,No,3400,Bachelor
+41,35,Male,Research & Development,Research Scientist,8,3,No,6900,Master
+42,30,Female,Research & Development,Laboratory Technician,5,2,Yes,3800,Bachelor
+43,47,Male,Research & Development,Manager,19,4,No,14500,Master
+44,24,Female,Sales,Sales Executive,1,1,Yes,2200,High School
+45,33,Male,Sales,Sales Executive,6,4,No,5600,Bachelor
+46,42,Female,Research & Development,Research Scientist,14,3,No,10800,PhD
+47,29,Male,Human Resources,HR Assistant,3,2,Yes,3000,Bachelor
+48,37,Female,Sales,Sales Representative,10,3,No,7500,Master
+49,45,Male,Research & Development,Healthcare Representative,16,4,No,8800,Bachelor
+50,31,Female,Research & Development,Laboratory Technician,6,3,No,4200,Bachelor
+51,22,Female,Data Analyst,Junior Data Analyst,1,2,Yes,2100,Bachelor
+52,30,Male,AI,AI Engineer,4,3,No,8500,Master
+53,26,Female,AI,ML Researcher,2,4,No,6200,PhD
+54,34,Male,AI,AI Engineer,6,2,No,9000,Master
+55,29,Female,Data Analyst,Data Analyst,3,3,No,5500,Bachelor
+56,40,Male,AI,AI Manager,12,4,No,14000,PhD
