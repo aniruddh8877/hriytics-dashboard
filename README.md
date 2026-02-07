@@ -13,8 +13,8 @@ This repository contains tools and analyses for understanding HR data, predictin
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/HRlytics.git
-    cd HRlytics
+    git clone https://github.com/Aniruddh8877/HRIytics-Dashboard.git
+    cd HRIytics-Dashboard
     ```
 
 2.  **Install dependencies**:
@@ -36,8 +36,8 @@ This repository contains tools and analyses for understanding HR data, predictin
 
 -   **Key Metrics**: Total employees, average salary, attrition rate.
 -   **Visualizations**: Attrition by department, salary distribution, correlation heatmap.
--   **Interactive Filters**: Filter data by department.
+-   **Interactive Filters**: Filter data by department (now including **AI** and **Data Analyst**).
 
 ## Data Source
 
-The dataset simulates HR records including demographics, job role, satisfaction levels, and attrition status.
+The dataset simulates HR records including demographics, job role, satisfaction levels, and attrition status. It has been enriched with specialized departments like **AI** and **Data Analyst** to reflect modern tech roles.
